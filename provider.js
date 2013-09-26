@@ -10,3 +10,7 @@ function addGitHubSearch() {
   addProvider("github.xml");
 }
 
+function addGitHubRepositoriesSearch() {
+  addProvider("github-repositories.xml");
+}
+
