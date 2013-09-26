@@ -18,3 +18,7 @@ function addGitHubCodeSearch() {
   addProvider("github-code.xml");
 }
 
+function addGitHubUsersSearch() {
+  addProvider("github-users.xml");
+}
+
