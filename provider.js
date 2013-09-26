@@ -14,3 +14,7 @@ function addGitHubRepositoriesSearch() {
   addProvider("github-repositories.xml");
 }
 
+function addGitHubCodeSearch() {
+  addProvider("github-code.xml");
+}
+
