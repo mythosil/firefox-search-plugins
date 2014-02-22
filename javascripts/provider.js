@@ -22,3 +22,7 @@ function addGitHubUsersSearch() {
   addProvider("github-users.xml");
 }
 
+function addSoundCloudSearch() {
+  addProvider("soundcloud.xml");
+}
+
