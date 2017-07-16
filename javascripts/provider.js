@@ -26,3 +26,7 @@ function addSoundCloudSearch() {
   addProvider("soundcloud.xml");
 }
 
+function addWeblioEJJESearch() {
+  addProvider("weblio-ejje.xml");
+}
+
