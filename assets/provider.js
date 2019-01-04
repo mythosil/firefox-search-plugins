@@ -30,3 +30,7 @@ function addWeblioEJJESearch() {
   addProvider("weblio-ejje.xml");
 }
 
+function addGoogleENSearch() {
+  addProvider("google-en.xml");
+}
+
