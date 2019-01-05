@@ -34,3 +34,7 @@ function addGoogleENSearch() {
   addProvider("google-en.xml");
 }
 
+function addYoutubeSearch() {
+  addProvider("youtube.xml");
+}
+
